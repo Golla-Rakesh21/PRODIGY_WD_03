@@ -1,4 +1,5 @@
 # PRODIGY_WD_03
+
 HTML,CSS,JAVASCRIPT-TIC-TAC-TOE
 
 <P>This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. The game allows two players to take turns marking spaces in a 3×3 grid with 'X' or 'O'. The first player to align three of their marks horizontally, vertically, or diagonally wins the game. If all nine spaces are filled without a winner, the game ends in a draw.</P>
